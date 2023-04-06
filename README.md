@@ -18,7 +18,7 @@
 
 🛢<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5.15.0/icons/mysql.svg" alt="MySQL" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite3" width="50" height="50"/>
 
-🔧<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ IDEA" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg" alt="PyCharm" width="50" height="50"/>
+🔧<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="Visual Studio Code" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="IntelliJ IDEA" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/pycharm-1.svg" alt="PyCharm" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5.15.0/icons/intellijidea.svg" alt="IntelliJ IDEA" width="50" height="50"/>
 
 
 
