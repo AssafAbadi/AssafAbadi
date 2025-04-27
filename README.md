@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Assaf Abadi!
 💻  About Me
 
-✔ B.Sc in Computer Science at Ben Gurion University of the Negev, from Herzliya, Israel.
+✔ B.Sc. in Computer Science from Ben Gurion University of the Negev. From Herzliya, Israel.
 
 ✔ Passionate about exploring new technologies and continuously learning to stay ahead in the ever-evolving field of computer science.
 
